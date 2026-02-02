@@ -19,7 +19,7 @@ export default function InformacionAnt() {
 
         <div className="image-container">
           <img
-            src="https://picsum.photos/id/1041/1200/500"
+            src="https://fastly.picsum.photos/id/233/1200/500.jpg?hmac=EPRzDcSbV_xHJPBZhIqajgow6e1sOHYHn3l5tCwYJRw"
             alt="Imagen ilustrativa"
             className="full-image"
           />
